@@ -10,12 +10,16 @@ block explorer: coming soon
 
 discord: coming soon 
 
+
  
 Bitsolo has been abandoned by the original devs. 
 
 dont know if there is a community out there but im going to start one! 
 
+
+
 coin specs 
+
 - Algoritm: Quark
 - Total supply: 21,000,000 BSL
 - Block time: 60 seconds
@@ -24,6 +28,9 @@ coin specs
 - MN reward: 60%
 - POS reward: 40%
 - Min staking Age: 60 min.
+
+
+
 
 Setting up wallet 
 
@@ -46,9 +53,16 @@ make
 make install (optional) 
 
 
+
+
+
 SETTING UP MASTERNODE 
 
+
 this section coming soon 
+
+
+
 
 
 donations 
